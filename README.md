@@ -4,4 +4,4 @@ More info about OnStep goto controller on [Howard Dutton project](https://groups
 *  OnStep box for Mega2560 (CNC3.0 shiled) on [Thingiverse](https://www.thingiverse.com/thing:2748375)
 *  OnStep box for [MiniPCB2](https://easyeda.com/hdutton/minipcb2) on [Thingiverse](https://www.thingiverse.com/thing:3404139)
 *  OnStep box for [Smart Handheld controller](https://easyeda.com/hdutton/HC-20e242d665db4c85bb565a0cd0b52233) on [Thingiverse](https://www.thingiverse.com/thing:3212339)
-*  Onstep box for ST4 Handheld controller [Thingiverse](https://www.thingiverse.com/thing:2626117)
+*  Onstep box for ST4 Handheld controller on [Thingiverse](https://www.thingiverse.com/thing:2626117)
