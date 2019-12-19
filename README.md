@@ -1,6 +1,7 @@
 ### Boxs for OnStep goto telescope controller
 More info about OnStep goto controller on [Howard Dutton project](https://groups.io/g/onstep/wiki/home)
 
+*  OnStep box for [STM32](https://easyeda.com/kbahey/OnStep-STM32-Blue-Pill) on [Thingiverse](https://www.thingiverse.com/thing:4057270)
 *  OnStep box for [MiniPCB2](https://easyeda.com/hdutton/minipcb2) on [Thingiverse](https://www.thingiverse.com/thing:3404139)
 *  OnStep box for [Smart Handheld controller](https://easyeda.com/hdutton/HC-20e242d665db4c85bb565a0cd0b52233) on [Thingiverse](https://www.thingiverse.com/thing:3212339)
 *  Onstep box for ST4 Handheld controller on [Thingiverse](https://www.thingiverse.com/thing:2626117)
